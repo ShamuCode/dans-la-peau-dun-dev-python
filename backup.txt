@@ -1,1 +1,0 @@
-{'name': 'Player', 'level': 1, 'attack': 2, 'defense': 0, 'pv': 3}
